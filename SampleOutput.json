@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": null,
+            "title": "The Verge",
+            "description": "The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.",
+            "url": "http://www.theverge.com/",
+            "urlToImage": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
+            "publishedAt": "2023-11-25T14:52:22.735477Z",
+            "content": "Rockstar doesnt want developers talking about Rockstar.\r\nA developer named Obbe Vermeij, whod worked as a technical director on the early 3D Grand Theft Auto trilogy, started sharing stories about th… [+548 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Beatrice Nolan",
+            "title": "AI is creating hot jobs like prompt engineer",
+            "description": "Despite fears that AI will put many workers out of a job, the technology is already creating some novel high-paying roles.",
+            "url": "http://www.businessinsider.com/ai-creating-jobs-prompt-engineer-chatgpt-2023-11",
+            "urlToImage": "https://i.insider.com/65491b01b788914e5550f0c9?width=1200&format=jpeg",
+            "publishedAt": "2023-11-25T12:14:01Z",
+            "content": "AI may be coming for some jobs, but it's also creating new employment too.\r\nEarly studies predicted that the widespread application of AI had the potential to spark mass job losses, with some industr… [+2632 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider-uk",
+                "name": "Business Insider (UK)"
+            },
+            "author": "Beatrice Nolan",
+            "title": "AI is creating hot jobs like prompt engineer",
+            "description": "Despite fears that AI will put many workers out of a job, the technology is already creating some novel high-paying roles.",
+            "url": "http://uk.businessinsider.com/ai-creating-jobs-prompt-engineer-chatgpt-2023-11",
+            "urlToImage": "https://i.insider.com/65491b01b788914e5550f0c9?width=1200&format=jpeg",
+            "publishedAt": "2023-11-25T12:14:01Z",
+            "content": "AI may be coming for some jobs, but it's also creating new employment too.\r\nEarly studies predicted that the widespread application of AI had the potential to spark mass job losses, with some industr… [+2632 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Nvidia GH200 is Already Powering 200 Exaflops of AI | NextBigFuture.com",
+            "description": "Combining the Arm-based NVIDIA Grace CPU and Hopper GPU architectures using NVIDIA NVLink-C2C interconnect technology is the Nvidia GH200. The Nvidia GH200 is",
+            "url": "https://www.nextbigfuture.com/2023/11/nvidia-gh200-is-already-powering-200-exaflops-of-ai.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/11/Screen-Shot-2023-11-24-at-12.34.01-AM.jpg",
+            "publishedAt": "2023-11-24T08:35:46Z",
+            "content": "Combining the Arm-based NVIDIA Grace CPU and Hopper GPU architectures using NVIDIA NVLink-C2C interconnect technology is the Nvidia GH200. The Nvidia GH200 is the engine behind AI and scientific supe… [+2171 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Age of Electric Jet Planes | NextBigFuture.com",
+            "description": "The Duxion eJet motor, an electric jet engine will enable electric aviation by using permanent magnet technology to deliver unprecedented power-to-weight",
+            "url": "https://www.nextbigfuture.com/2023/11/age-of-electric-jet-planes.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/11/Screen-Shot-2023-11-23-at-10.09.18-AM.jpg",
+            "publishedAt": "2023-11-23T18:15:57Z",
+            "content": "The Duxion eJet motor, an electric jet engine will enable electric aviation by using permanent magnet technology to deliver unprecedented power-to-weight ratios within a compact design. \r\nRim Driven … [+2405 chars]"
+        }
+    ]
+}
